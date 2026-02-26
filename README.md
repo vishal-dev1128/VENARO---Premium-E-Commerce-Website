@@ -273,8 +273,7 @@ new-venaro/
 | Products Per Page | 24 |
 | Max Login Attempts | 5 (per 15 minutes) |
 | Max Image Upload | 5MB |
-| Contact Email | contact.venaro@gmail.com |
-| Contact Phone | +91 96659 97194 |
+| Contact Email | vishalpawar.dev1128@gmail.com |
 | Instagram | [@venaro_apparel](https://www.instagram.com/venaro_apparel/) |
 
 ---
