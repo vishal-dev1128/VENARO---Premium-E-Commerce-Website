@@ -327,8 +327,7 @@ new-venaro/
 
 | | |
 | :--- | :--- |
-| **Email** | contact.venaro@gmail.com |
-| **Phone** | +91 96659 97194 |
+| **Email** | vishalpawar.dev1128@gmail.com |
 | **Instagram** | [@venaro_apparel](https://www.instagram.com/venaro_apparel/) |
 
 ---
