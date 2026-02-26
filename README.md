@@ -133,6 +133,34 @@ new-venaro/
 
 ---
 
+## 📸 Visual Showcase
+
+### Home Page
+![Home Page](docs/screenshots/home-page.png)
+
+### Category Exploration
+![Category Page](docs/screenshots/category-page.png)
+
+### Product Detail
+![Product Page](docs/screenshots/product-page.png)
+
+### About Us
+![About Page](docs/screenshots/about-page.png)
+
+### Contact & Support
+![Contact Page](docs/screenshots/contact-page.png)
+
+### User Authentication
+![Signup & Login](docs/screenshots/signup-login-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+### Footer & Navigation
+![Footer](docs/screenshots/footer-page.png)
+
+---
+
 ## ✅ Features Implemented
 
 ### Phase 1 — Foundation
@@ -273,7 +301,8 @@ new-venaro/
 | Products Per Page | 24 |
 | Max Login Attempts | 5 (per 15 minutes) |
 | Max Image Upload | 5MB |
-| Contact Email | vishalpawar.dev1128@gmail.com |
+| Contact Email | contact.venaro@gmail.com |
+| Contact Phone | +91 96659 97194 |
 | Instagram | [@venaro_apparel](https://www.instagram.com/venaro_apparel/) |
 
 ---
@@ -326,7 +355,8 @@ new-venaro/
 
 | | |
 | :--- | :--- |
-| **Email** | vishalpawar.dev1128@gmail.com |
+| **Email** | contact.venaro@gmail.com |
+| **Phone** | +91 96659 97194 |
 | **Instagram** | [@venaro_apparel](https://www.instagram.com/venaro_apparel/) |
 
 ---
