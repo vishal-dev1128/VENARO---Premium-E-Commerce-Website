@@ -1,0 +1,35 @@
+# ========================
+# VÉNARO — .gitignore
+# ========================
+
+# Sensitive config
+config/db.php
+config/config.php
+*.env
+.env
+
+# Error & debug logs
+*.log
+error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+*.cache
+/cache/
+
+# User uploaded product images (large binary files)
+# Comment out below if you want to include sample uploads
+uploads/products/
+
+# Node modules
+node_modules/
